@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\bin\Debug\LibrarySoft.Bibliotecaria.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\bin\Debug\LibrarySoft.Bibliotecaria.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\LibrarySoft\LibrarySoft.Bibliotecaria\obj\Debug\LibrarySoft.Bibliotecaria.Form1.resources
